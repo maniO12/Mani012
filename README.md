@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">MERN Stack Developer | DSA Enthusiast | Political Literacy Advocate</h3>
+<h1 align="center">Hi 👋, I'm Y.Manikanta</h1>
+<h3 align="center">MERN Stack Developer | DSA Enthusiast |</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 - 💡 Founder of a political literacy startup for youth engagement & RTI awareness  
 - 📚 Currently solving DSA problems on LeetCode (85+ solved) & revising OS, CN, SQL  
 - 🔭 Exploring Node.js, React Native & working on real-world projects  
-- 🎯 Goal: Land a 6+ LPA tech role & bring tech to social impact  
+
 
 ---
 
@@ -34,7 +34,7 @@
 - 🧵 [Tailor Crafts](https://github.com/your-username/tailor-crafts) – Personalized clothing brand platform  
 - 🎓 [CSE Compass](https://github.com/your-username/cse-compass) – MERN web app for roadmap, resources & DSA  
 - 📊 [Political Literacy Platform](https://github.com/your-username/political-literacy) *(coming soon)* – Youth-led RTI, debates & governance awareness  
-- 🧠 [DSA Practice](https://github.com/your-username/dsa-leetcode-solutions) – 85+ LeetCode problems with categorized solutions  
+- 🧠 [DSA Practice](https://github.com/your-username/dsa-leetcode-solutions) – 90+ LeetCode problems with categorized solutions  
 
 ---
 
