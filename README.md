@@ -34,9 +34,9 @@
 ## 🚀 Projects
 
 - 🧵 [Tailor Crafts](https://github.com/your-username/tailor-crafts) – Personalized clothing brand platform  
-- 🎓 [CSE Compass](https://github.com/your-username/cse-compass) – MERN web app for roadmap, resources & DSA  
-- 📊 [Political Literacy Platform](https://github.com/your-username/political-literacy) *(coming soon)* – Youth-led RTI, debates & governance awareness  
-- 🧠 [DSA Practice](https://github.com/your-username/dsa-leetcode-solutions) – 90+ LeetCode problems with categorized solutions  
+- 📊 [Political Literacy Platform](https://github.com/maniO12/NewsRTI ) *(coming soon)* – Youth-led RTI, debates & governance awareness
+- 🗒️ [iNotebook](https://github.com/maniO12/inotebook) – Cloud-based note-taking app with authentication & CRUD features  
+- 🧠 [DSA Practice](https://leetcode.com/YManikanta) – 90+ LeetCode problems with categorized solutions  
 
 ---
 
