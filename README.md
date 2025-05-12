@@ -63,4 +63,4 @@ I work across the full web development spectrum while actively growing my proble
 
 ---
 
-> ⚡ *"Bridging tech with governance. Empowering youth with code, collaboration & critical thinking."*
+> ⚡ *"Build scalable solutions using MERN stack, DSA, and core CS fundamentals."*
