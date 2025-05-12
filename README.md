@@ -7,9 +7,9 @@
 
 - 👨‍💻 I’m currently working on **Tailor Crafts** – a personalized clothing brand web app  
 - 📱 Building **CSE Compass** – a student-focused MERN platform for learning paths & career planning  
-- 💡 Founder of a political literacy startup for youth engagement & RTI awareness  
-- 📚 Currently solving DSA problems on LeetCode (85+ solved) & revising OS, CN, SQL  
-- 🔭 Exploring Node.js, React Native & working on real-world projects  
+- 💡Worked on an Political Literacy Aplplication based on MERN Stack.
+- 📚 Currently solving DSA problems on LeetCode (85+ solved).
+- 🔭 Exploring Node.js, React Js & working on real-world projects  
 
 
 ---
