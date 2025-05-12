@@ -5,11 +5,14 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 I’m currently working on **Tailor Crafts** – a personalized clothing brand web app  
-- 📱 Building **CSE Compass** – a student-focused MERN platform for learning paths & career planning  
-- 💡Worked on an Political Literacy Aplplication based on MERN Stack.
-- 📚 Currently solving DSA problems on LeetCode (85+ solved).
-- 🔭 Exploring Node.js, React Js & working on real-world projects  
+I'm a MERN Stack Developer driven by purpose — blending tech skills with social impact.
+I work across the full web development spectrum while actively growing my problem-solving and CS fundamentals.
+
+👨‍💻 Skilled in JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, Java, and Git
+
+🧭 Leading CSE Compass, a MERN-based platform for career roadmaps & DSA prep.
+
+📚 Solved 90+ DSA problems on LeetCode; revising OS, CN, and SQL.
 
 
 ---
@@ -33,8 +36,8 @@
 
 ## 🚀 Projects
 
-- 🧵 [Tailor Crafts](https://github.com/your-username/tailor-crafts) – Personalized clothing brand platform  
-- 📊 [Political Literacy Platform](https://github.com/maniO12/NewsRTI ) *(coming soon)* – Youth-led RTI, debates & governance awareness
+- 📊 [Political Literacy Platform](https://github.com/maniO12/NewsRTI )– Youth-led RTI, debates & governance awareness
+- 🧵 [Tailor Crafts](https://github.com/github.com/maniO12/Ecommerce) – Personalized clothing brand platform  
 - 🗒️ [iNotebook](https://github.com/maniO12/inotebook) – Cloud-based note-taking app with authentication & CRUD features  
 - 🧠 [DSA Practice](https://leetcode.com/YManikanta) – 90+ LeetCode problems with categorized solutions  
 
