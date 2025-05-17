@@ -39,7 +39,7 @@ I work across the full web development spectrum while actively growing my proble
 - 📊 [Political Literacy Platform](https://github.com/maniO12/NewsRTI )– Youth-led RTI, debates & governance awareness
 - 🧵 [Tailor Crafts](https://github.com/github.com/maniO12/Ecommerce) – Personalized clothing brand platform  
 - 🗒️ [iNotebook](https://github.com/maniO12/inotebook) – Cloud-based note-taking app with authentication & CRUD features  
-- 🧠 [DSA Practice](https://leetcode.com/YManikanta) – 90+ LeetCode problems with categorized solutions  
+- 🧠 [DSA Practice](https://leetcode.com/YManikanta) – 110+ LeetCode problems with categorized solutions  
 
 ---
 
