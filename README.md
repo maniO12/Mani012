@@ -12,7 +12,7 @@ I work across the full web development spectrum while actively growing my proble
 
 🧭 Leading CSE Compass, a MERN-based platform for career roadmaps & DSA prep.
 
-📚 Solved 90+ DSA problems on LeetCode; revising OS, CN, and SQL.
+📚 Solved 130+ DSA problems on LeetCode; revising OS, CN, and SQL.
 
 
 ---
