@@ -63,4 +63,4 @@ I work across the full web development spectrum while actively growing my proble
 
 ---
 
-> ⚡ *"Build scalable solutions using MERN stack, DSA, and core CS fundamentals."*
+> ⚡ *"Building scalable solutions using MERN stack, DSA, and core CS fundamentals."*
